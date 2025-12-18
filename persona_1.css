@@ -1,0 +1,33 @@
+/* =============================  Header Contain  ============================= */
+
+/* header */
+
+/* Nav */
+nav{
+  font-size: 2rem;
+}
+
+/* nav{
+
+} */
+
+/* =============================  Body Main Contain  ============================= */
+
+body{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  background-image: url("d11357a6-fd6a-4cfa-b90f-b38b1405fdb4.JPG");
+  background-size: cover ;
+  background-attachment: fixed;
+  color: white;
+  text-align: center;
+}
+
+
+
+
+/* =============================  footer Contaon  ============================= */
+footer{
+  background-color: aliceblue;
+  color: black;
+  margin: 2%;
+}
