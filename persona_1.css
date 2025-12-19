@@ -24,7 +24,7 @@ a:hover
 }
 a:visited
 {
-  /* color: azure; */
+  color: azure;
 }
 a:active
 {
@@ -44,8 +44,35 @@ body{
   background-attachment: fixed;
   color: white;
   text-align: center;
+  align-items: center;
+
+  /* display: flex;
+  flex-direction: column; */
+
+  /* min-height: 100vh;
+  display: grid;
+  grid-template-rows: auto 1fr auto; */
+
+  /* display: flex; */
+  /* flex-direction: column; */
+  /* min-height: 95vh; */
+  /* display: grid; */
+  /* grid-template-rows: auto 95fr 5fr; */
 }
 
+/* ============================= Main CSS ============================= */
+main{
+  /* min-height: 95vh; */
+  /* justify-content: center; */
+}
+
+/* section{
+  justify-content: center;
+}
+
+div{
+  justify-content: center;
+} */
 
 
 
@@ -53,8 +80,20 @@ body{
 footer{
   background-color: aliceblue;
   color: black;
-  margin: 2%;
-} */
+  /* margisn: 2%; */
+  /* width:max(20%,99%); */
+
+  /* align-self: flex-end; */
+  /* height:min(20%,25%); */
+  /* position: fixed; */
+  
+  /* padding: auto; */
+  /* bottom: 2px; */
+  /* margin-top: auto; */
+
+  /* padding: 1rem; */
+}
+
 
 
 /* =============================  More required things  ============================= */
