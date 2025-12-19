@@ -1,4 +1,10 @@
-/* =============================  Header Contain  ============================= */
+/* ==========================================================
+/* ==============  All Nav Global CSS =========================
+
+/* ==========================================================
+
+
+/* =============================  Header Contain  =============================
 
 /* header */
 
@@ -7,10 +13,22 @@ nav{
   font-size: 2rem; 
   cursor: pointer;
 }
+
+a{
+  color: white;;
+}
+
 a:hover
 {
   color: bisque;
-
+}
+a:visited
+{
+  /* color: azure; */
+}
+a:active
+{
+  color: bisque;
 }
 
 /* nav{
@@ -36,7 +54,7 @@ footer{
   background-color: aliceblue;
   color: black;
   margin: 2%;
-}
+} */
 
 
 /* =============================  More required things  ============================= */
